@@ -1,0 +1,8 @@
+Credentials cache: API:539F478B-EF47-451E-8770-9C2E82BA9301
+        Principal: fbonin@42.FR
+
+  Issued                Expires               Principal
+Jul 31 12:23:20 2017  Aug  7 12:23:20 2017  krbtgt/42.FR@42.FR
+Jul 31 12:23:22 2017  Aug  7 12:23:20 2017  ldap/ldap-proxy.42.fr@42.FR
+Jul 31 12:23:22 2017  Aug  7 12:23:20 2017  HTTP/student-storage-1.42.fr@42.FR
+Jul 31 12:42:35 2017  Aug  7 12:23:20 2017  host/vgs-fn1.42.fr@42.FR
